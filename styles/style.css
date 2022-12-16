@@ -50,7 +50,6 @@ section#login > div#imagem {
     -webkit-backdrop-filter: blur( 13.5px );
     border-radius: 10px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
-	background: cover;
 	background-position: left, bottom;
 	background-size: 500px;
 	height: 200px;
